@@ -10,7 +10,7 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | Bùi Văn Khôi |
+| Họ và tên | Bùi Văn Khởi |
 | Mã học viên | 2A202601723 |
 | Repo | https://github.com/buivankhoi09/K3-Day12-2A202601723-BuiVanKhoi |
 
